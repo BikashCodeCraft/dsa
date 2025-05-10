@@ -1,4 +1,4 @@
-package com.bikash.dsa.striver.a2z.recursion.medium;
+package com.bikash.dsa.striver.a2z.recursion.medium.p1;
 
 import java.util.ArrayList;
 import java.util.List;

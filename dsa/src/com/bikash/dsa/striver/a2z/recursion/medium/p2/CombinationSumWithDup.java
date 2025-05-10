@@ -1,9 +1,9 @@
-package com.bikash.dsa.striver.a2z.recursion.medium;
+package com.bikash.dsa.striver.a2z.recursion.medium.p2;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class CombinationSum {
+public class CombinationSumWithDup {
 
     public static void main(String[] args) {
         int[] arr = {2,3,6,7};
